@@ -55,7 +55,7 @@ const Roadmap = () => {
       <main className="roadmap-main-container">
         <h3 className="menu-head">Developer Roadmap</h3>
         <div className="desc">
-          Step by step guides and paths to learn different tools or technologies
+        Below you find a set of charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a frontend, backend or a devops. I made these charts for an old professor of mine who wanted something to share with his college students to give them a perspective; sharing them here to help the community.
         </div>
         <div style={{ marginBottom: "4rem" }}></div>
         {avRoadmaps.map((roadmap) => {
