@@ -36,12 +36,11 @@ let roadmaps = [
     description:
       "Step by step guide to becoming a modern frontend developer in 2021.",
     topics: [
-      { title: "HTML",icon:HTML},
-      { title: "CSS",icon:CSS},
+      { title: "HTML + CSS",icon:HTML},
       { title: "JAVASCRIPT",icon:JS},
-      { title: "REACTJS + REDUX",icon:REACT},
-      { title: "ANGULAR + REDUX",icon:ANGULAR },
-      { title: "VUEJS + REDUX",icon:VUEJS },
+      { title: "REACTJS",icon:REACT},
+      { title: "ANGULAR",icon:ANGULAR },
+      { title: "VUEJS",icon:VUEJS },
     ],
   },
   {
@@ -52,7 +51,6 @@ let roadmaps = [
       { title: "NODE JS",icon:NODEJS },
       { title: "DJANGO",icon:DJANGO },
       { title: "PHP" ,icon:PHP},
-      { title: "JAVA BACKEND",icon:JAVABACK },
     ],
   },
   {
